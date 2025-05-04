@@ -15,7 +15,7 @@
 ## 📫 Let's Connect
 - 📧 pradhansamaresh2002@gmail.com
 - 🌐 [Portfolio Website (Coming Soon)](#)
-- 🧑‍💻 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/samaresh-pradhan/))
+- 🧑‍💻 ([https://www.linkedin.com](https://www.linkedin.com/in/samaresh-pradhan/))
 
 ---
 ⭐️ *Thanks for visiting my GitHub! Feel free to explore and connect with me.*  
